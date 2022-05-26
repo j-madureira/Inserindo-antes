@@ -1,0 +1,6 @@
+- Crie um HTML com um elemento pai e um elemento filho
+- Crie um estilo para os elementos
+- Crie um elemento filho no JS
+- Receba o elemento filho que já existe no HTML 
+- Receba a referência do elemento pai através desse elemento filho que eu recebi
+- Insira o elemento criado

@@ -1,0 +1,28 @@
+#f{
+    background-color: dodgerblue;
+    color: white;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    width: 590px;
+    border-radius: 6px;
+}
+
+#pai{
+    margin: auto;
+    background-color: cornflowerblue;
+    width: 498px;
+    height: 590px;
+}
+
+#filho{
+    margin: auto;
+    background-color: blueviolet;
+    width: 399px;
+    height: 120px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 24px;
+
+}
